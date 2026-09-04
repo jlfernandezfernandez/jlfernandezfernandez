@@ -10,6 +10,15 @@ Based in A Coruña · Software Engineer at [Sngular](https://github.com/sngular)
 - 💡 [oversight-litra-trigger](https://github.com/jlfernandezfernandez/oversight-litra-trigger) — Turns a Logitech Litra light on or off when OverSight detects camera usage.
 - 🏋️ [exercises-dataset-es](https://github.com/jlfernandezfernandez/exercises-dataset-es) — A Spanish exercise dataset with images, muscle groups, equipment, and step-by-step instructions.
 
+## Pinned projects
+
+- [ctx](https://github.com/jlfernandezfernandez/ctx) — Grow your developer skills.
+- [gym-tracker](https://github.com/jlfernandezfernandez/gym-tracker) — The tool you needed for your AI coach.
+- [compound-interest-calculator](https://github.com/jlfernandezfernandez/compound-interest-calculator) — Calculate your compound-interest growth.
+- [vivienda-coruna](https://github.com/jlfernandezfernandez/vivienda-coruna) — Open monitoring for new developments and protected housing around A Coruña.
+- [knowli](https://github.com/jlfernandezfernandez/knowli) — Shared knowledge capture with human review, conflict resolution, cited retrieval, and a local-first stack.
+- [teleprompter](https://github.com/jlfernandezfernandez/teleprompter) — A private, distraction-free web teleprompter for presenting naturally.
+
 ## What I'm exploring
 
 - Building small tools that remove friction from daily workflows
