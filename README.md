@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Jordi 
 
-<!--
-**jlfernandezfernandez/jlfernandezfernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical tools at the intersection of software, automation, and everyday life.
 
-Here are some ideas to get you started:
+Based in A Coruña · Software Engineer at [Sngular](https://github.com/sngular)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Start here
+
+- [ open-whip](https://github.com/jlfernandezfernandez/open-whip) — A tiny macOS menu-bar app that helps coding agents type faster.
+- -  [oversight-litra-trigger](https://github.com/jlfernandezfernandez/oversight-litra-trigger) — Turns a Logitech Litra light on or off when OverSight detects camera usage.
+  -  - [ exercises-dataset-es](https://github.com/jlfernandezfernandez/exercises-dataset-es) — A Spanish exercise dataset with images, muscle groups, equipment, and step-by-step instructions.
+   
+     - ## What I'm exploring
+   
+     - - Building small tools that remove friction from daily workflows
+       - - Making automation useful, visible, and respectful
+         - - Turning ideas into shippable software
+          
+           - ## Connect
+          
+           - - [LinkedIn](https://www.linkedin.com/in/jordilff/)
+             - - [GitHub](https://github.com/jlfernandezfernandez)
+               - - [All repositories](https://github.com/jlfernandezfernandez?tab=repositories)
+                
+                 - > Ship small, learn fast, keep the useful bits.
+                   > 
